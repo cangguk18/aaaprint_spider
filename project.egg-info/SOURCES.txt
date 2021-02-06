@@ -1,0 +1,13 @@
+setup.py
+aaaprint_spider/__init__.py
+aaaprint_spider/items.py
+aaaprint_spider/middlewares.py
+aaaprint_spider/pipelines.py
+aaaprint_spider/settings.py
+aaaprint_spider/spiders/__init__.py
+aaaprint_spider/spiders/aaaprint_spider.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
